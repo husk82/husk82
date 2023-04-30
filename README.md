@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @husk82
 - 👀 I’m interested in application development.
-- 🌱 I’m currently learning Java, Python and Github.
+- 🌱 I’m currently learning Rust. 
 - 💞️ I’m looking to collaborate on any project available.
 - 📫 Reach me through email: takoaashish01@gmail.com
 
